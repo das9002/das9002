@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre Aquí]</h1>
-<h3 align="center">Desarrollador de Software | Enfoque Backend & Full Stack</h3>
+<h1 align="center">Hola 👋, soy Diego Siliézar</h1>
+<h3 align="center">Desarrollador de Software Full Stack</h3>
 
 <p align="center">
   Apasionado por construir APIs seguras, interfaces web responsivas y documentar arquitecturas de software claras. Siempre aprendiendo y creando soluciones prácticas.
@@ -9,7 +9,7 @@
   <a href="[Tu-URL-de-LinkedIn]" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[tu-correo@ejemplo.com]">
+  <a href="mailto: 20250711@ricaldone.edu.sv">
     <img src="https://shields.io" alt="Email"/>
   </a>
 </p>
